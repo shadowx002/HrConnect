@@ -15,5 +15,6 @@
 
 ## Description :
 The objective of the project is to filter out employees from the csv who meets the following condition
-    - employees whose salary is > 9000
-    - employee whose department is within range 30 to 110 AND whose salary is > 4200.
+
+- employees whose salary is > 9000
+- employee whose department is within range 30 to 110 AND whose salary is > 4200.
