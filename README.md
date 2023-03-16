@@ -1,6 +1,7 @@
 # Project Name: HRConnect
 
 ## Project Structure:
+"""
 |--- HRConnect
     |
     |
@@ -20,7 +21,7 @@
     |-- task_one.py
     |-- task_two.py
 
-
+"""
 ## Description :
 The objective of the project is to filter out employees from the csv who meets the following condition
     - employees whose salary is > 9000
