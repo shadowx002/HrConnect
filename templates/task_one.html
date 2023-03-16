@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Task One</title>
+    <h1><center>Task one</center></h1>
+    <h2><center>Employees who's salary is > 9000.</center></h2>
+    <br></br>
+</head>
+
+<body>
+
+<ul>
+{% for item in data %}
+    <li><b>Name</b> : {{item.Name}}</li>
+    <li><b>Email</b> : {{item.email}}</li>
+    <li><b>Phone Number</b> : {{item.phone_number}}</li>
+    <br></br>
+    <br></br>
+{% endfor %}
+</ul>
+</body>
+</html>
